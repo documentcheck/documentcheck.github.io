@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+portal.zma.go.tz	TRUE	/	FALSE	1999999999	_the_final_frontier_session	qQ4SRB3q7WDYKD6kqrBNzVS6w%2F32wXraCbM%2FvsDOx6Tgw%2FmZz99PDmtH%2FgyBgta82Sb28TwW2hGjEE7%2BqTG%2BuC%2Fc1Tgl5UG5kBfr1Yve9Ri%2FSNn9vcsM%2BmBZz5VaAvzye1OIJ8ZENjPCApZC6RxAHwmxuLDam6V4XI6xlGBuJxHuGPSEXwEoecZ%2Fd2b9imfF2jUOP8L9jMu81lbpL2gF7GoXUcY6sB7suZ1%2FENzjwK6hzH7nMl53F4gwWLwA0kHwqGoH9K4dbtiJvI8fRTykmgEL0AZt6R4Fvp4cUuEQMeCW%2B3I%3D--JUbOiaFqp7V%2B7GBR--cW1Nzjhrs3MF0daURXXuEg%3D%3D
+portal.zma.go.tz	TRUE	/	FALSE	1999999999	_passenger_route	694884271
+portal.zma.go.tz	TRUE	/	FALSE	1999999999	SameSite	Lax
+
